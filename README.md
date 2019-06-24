@@ -36,7 +36,5 @@
 
 > **Total Time: 90 mins**
 
-
----
-
-## OPTIONAL: Resources for Practice and Learning
+1. KNN conceptual overview (20 min)
+2. Walk through using `sklearn.neighors.KNeighborsClassifier` on the Iris dataset (70 min)
