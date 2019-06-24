@@ -7,7 +7,7 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Introduction to KNN | [Link](./classification-with-knn-visualized-nooutput.ipynb)|
+| Lesson | Introduction to KNN | [Link](./starter-code.ipynb)|
 
 ---
 
